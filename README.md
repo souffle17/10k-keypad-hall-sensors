@@ -5,3 +5,11 @@ A 2x5 mechanical keypad PCB, with circuitry by me, based off of [my previous des
 The second row supports hall-effect switches with variable input, similar to those on rapid trigger/wooting keyboards.
 
 SW_MX_HS_CPG151101S11_1u_no_center_piece.kicad_mod is a modified version of the marbastlib-mx:SW_MX_HS_CPG151101S11_1u footprint from the marbastlib library.
+
+Warning: I have not yet tested this design.
+
+
+### Helpful resources:
+- https://guide.zykrah.me/
+- https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/
+- https://wiki.ai03.com/books/pcb-design/chapter/pcb-designer-guide
