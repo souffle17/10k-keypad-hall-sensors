@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Hall")(type "KiCad")(uri "${KIPRJMOD}/Hall.pretty")(options "")(descr ""))
-)
