@@ -2,8 +2,6 @@
 
 A 2x5 mechanical keypad circuit and PCB. The second row supports hall-effect switches with variable input, similar to those on rapid trigger/wooting keyboards, in addition to normal switches.
 
-Warning: I have not yet tested this design, but it is based off of [my previous design](https://github.com/souffle17/6k-keypad)
-
 
 ### Helpful resources:
 - https://guide.zykrah.me/
