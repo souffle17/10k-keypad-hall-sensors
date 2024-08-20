@@ -31,3 +31,6 @@ fp-info-cache
 *.xlsx
 
 *.lck
+
+production
+case
