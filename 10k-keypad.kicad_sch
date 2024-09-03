@@ -7829,7 +7829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "custom:SW_MX_HS_CPG151101S11_1u_no_center"
 			(at 96.52 123.19 0)
 			(effects
 				(font
@@ -8050,7 +8050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "custom:SW_MX_HS_CPG151101S11_1u_no_center"
 			(at 66.04 123.19 0)
 			(effects
 				(font
@@ -10260,7 +10260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "custom:SW_MX_HS_CPG151101S11_1u_no_center"
 			(at 50.8 123.19 0)
 			(effects
 				(font
@@ -12085,7 +12085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "custom:SW_MX_HS_CPG151101S11_1u_no_center"
 			(at 35.56 123.19 0)
 			(effects
 				(font
@@ -12815,7 +12815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "custom:SW_MX_HS_CPG151101S11_1u_no_center"
 			(at 81.28 123.19 0)
 			(effects
 				(font
