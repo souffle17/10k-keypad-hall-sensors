@@ -1,6 +1,6 @@
 # 10k-keypad with variable input hall sensors
 
-A 2x5 mechanical keypad circuit and PCB. The second row supports hall-effect switches with variable input, similar to those on rapid trigger/wooting keyboards, in addition to normal switches.
+A WIP 2x5 mechanical keypad circuit and PCB. The second row supports hall-effect switches with variable input, similar to those on rapid trigger/wooting keyboards, in addition to normal switches.
 
 
 ### Helpful resources:
